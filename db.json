@@ -10,7 +10,16 @@
       "id": 2,
       "path": "/Breadcrumb",
       "name":"面包屑",
-      "icon":"iconfont icon-liebiao"
+      "icon":"iconfont icon-liebiao",
+       children:[{
+         "id": "2-1",
+         "path": "/Breadcrumb",
+         "name":"面包屑1"
+       },{
+         "id": "2-2",
+         "path": "/Breadcrumb",
+         "name":"面包屑2"
+       }]
     },
     {
       "id": 3,
