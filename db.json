@@ -1,11 +1,9 @@
 {
-  Flag:1,
-  DATA:{
-    [
-      id:0,
-      path:"/Workbench",
-      name:"我的工作台",
-      icon:"iconfont icon-home"
-    ]
-  }
+  "Flag":1,
+  "DATA":[{
+       "id":"0",
+       "path":"/Workbench",
+       "name":"我的工作台",
+       "icon":"iconfont icon-home"
+  }]
 }
