@@ -6,8 +6,14 @@
       "name":"我的工作台",
       "icon":"iconfont icon-home"
     },
-    {
+     {
       "id": 2,
+      "path": "/Breadcrumb",
+      "name":"面包屑",
+      "icon":"iconfont icon-liebiao"
+    },
+    {
+      "id": 3,
       "path": "/Table",
       "name":"表格",
       "icon":"iconfont icon-B22"
