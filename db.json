@@ -11,7 +11,7 @@
       "path": "/Breadcrumb",
       "name":"面包屑",
       "icon":"iconfont icon-liebiao",
-       children:[{
+       "children":[{
          "id": "2-1",
          "path": "/Breadcrumb",
          "name":"面包屑1"
