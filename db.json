@@ -2,11 +2,11 @@
   "GetLevel1":[{
     "ID": 1,
     "label":"计科电脑室",
-    hasChild:true
+    "hasChild":true
   },{
     "ID": 2,
     "label":"组织体系",
-    hasChild:true
+    "hasChild":true
   }],
   "LeftSideMenue": [
     {
