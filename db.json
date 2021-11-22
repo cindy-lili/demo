@@ -8,6 +8,19 @@
     "label":"组织体系",
     "hasChild":true
   }],
+  "GetLevel2":[{
+    "PID": 1,
+    "label":"电脑安全",
+    "hasChild":true
+  },{
+    "PID": 2,
+    "label":"电路",
+    "hasChild":true
+  },{
+    "PID": 2,
+    "label":"测试点",
+    "hasChild":true
+  }],
   "LeftSideMenue": [
     {
         "ID": 1,
